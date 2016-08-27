@@ -1,0 +1,9 @@
+c-ctype.o c-ctype.o: ../../../subject/coreutils-6.11/lib/c-ctype.c \
+  config.h ../../../subject/coreutils-6.11/lib/c-ctype.h \
+  /SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stdbool.h
+
+config.h:
+
+../../../subject/coreutils-6.11/lib/c-ctype.h:
+
+/SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stdbool.h:

@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/pr.c.ex.c.cols_ready_to_print.bc.opt.bc ${1+"$@"}

@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/ln.c.ex.c.to_uchar.bc.opt.bc ${1+"$@"}

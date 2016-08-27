@@ -1,0 +1,4 @@
+ls-vdir.o ls-vdir.o: ../../../subject/coreutils-6.11/src/ls-vdir.c \
+  ../../../subject/coreutils-6.11/src/ls.h
+
+../../../subject/coreutils-6.11/src/ls.h:

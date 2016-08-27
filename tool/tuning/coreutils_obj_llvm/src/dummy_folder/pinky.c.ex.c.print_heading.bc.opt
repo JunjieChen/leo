@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/pinky.c.ex.c.print_heading.bc.opt.bc ${1+"$@"}

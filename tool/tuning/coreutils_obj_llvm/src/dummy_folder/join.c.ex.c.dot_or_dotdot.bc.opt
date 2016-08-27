@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/join.c.ex.c.dot_or_dotdot.bc.opt.bc ${1+"$@"}

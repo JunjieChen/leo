@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/mkfifo.c.ex.c.usage.bc.opt.bc ${1+"$@"}

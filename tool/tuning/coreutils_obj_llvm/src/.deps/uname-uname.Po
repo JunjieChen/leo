@@ -1,0 +1,5 @@
+uname-uname.o uname-uname.o:  \
+ ../../../subject/coreutils-6.11/src/uname-uname.c \
+  ../../../subject/coreutils-6.11/src/uname.h
+
+../../../subject/coreutils-6.11/src/uname.h:

@@ -1,0 +1,88 @@
+xstrtod.o xstrtod.o: ../../../subject/coreutils-6.11/lib/xstrtod.c \
+  config.h ../../../subject/coreutils-6.11/lib/xstrtod.h \
+  /SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stdbool.h \
+  /usr/include/errno.h /usr/include/features.h /usr/include/stdc-predef.h \
+  /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+  /usr/include/bits/errno.h /usr/include/linux/errno.h \
+  /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
+  /usr/include/asm-generic/errno-base.h \
+  /SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/limits.h \
+  /SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/syslimits.h \
+  /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+  /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+  /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
+  /usr/include/bits/stdio_lim.h stdio.h /usr/include/stdio.h \
+  /SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stddef.h \
+  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+  /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+  /SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stdarg.h \
+  /usr/include/bits/sys_errlist.h
+
+config.h:
+
+../../../subject/coreutils-6.11/lib/xstrtod.h:
+
+/SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stdbool.h:
+
+/usr/include/errno.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+/SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/limits.h:
+
+/SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/bits/posix2_lim.h:
+
+/usr/include/bits/xopen_lim.h:
+
+/usr/include/bits/stdio_lim.h:
+
+stdio.h:
+
+/usr/include/stdio.h:
+
+/SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stddef.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stdarg.h:
+
+/usr/include/bits/sys_errlist.h:

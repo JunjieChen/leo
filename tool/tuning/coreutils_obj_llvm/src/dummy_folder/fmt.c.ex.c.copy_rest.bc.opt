@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/fmt.c.ex.c.copy_rest.bc.opt.bc ${1+"$@"}

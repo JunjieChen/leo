@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/ls.c.ex.c.gobble_file.bc.opt.bc ${1+"$@"}

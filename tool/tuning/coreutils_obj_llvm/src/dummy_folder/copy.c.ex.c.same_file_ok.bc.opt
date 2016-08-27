@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/copy.c.ex.c.same_file_ok.bc.opt.bc ${1+"$@"}

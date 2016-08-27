@@ -1,0 +1,43 @@
+full-write.o full-write.o:  \
+ ../../../subject/coreutils-6.11/lib/full-write.c config.h \
+  ../../../subject/coreutils-6.11/lib/full-write.h \
+  /SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stddef.h \
+  /usr/include/errno.h /usr/include/features.h /usr/include/stdc-predef.h \
+  /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+  /usr/include/bits/errno.h /usr/include/linux/errno.h \
+  /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
+  /usr/include/asm-generic/errno-base.h \
+  ../../../subject/coreutils-6.11/lib/safe-write.h
+
+config.h:
+
+../../../subject/coreutils-6.11/lib/full-write.h:
+
+/SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stddef.h:
+
+/usr/include/errno.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+../../../subject/coreutils-6.11/lib/safe-write.h:

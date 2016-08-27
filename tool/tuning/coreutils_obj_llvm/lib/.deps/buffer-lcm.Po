@@ -1,0 +1,8 @@
+buffer-lcm.o buffer-lcm.o:  \
+ ../../../subject/coreutils-6.11/lib/buffer-lcm.c \
+  ../../../subject/coreutils-6.11/lib/buffer-lcm.h \
+  /SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stddef.h
+
+../../../subject/coreutils-6.11/lib/buffer-lcm.h:
+
+/SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stddef.h:

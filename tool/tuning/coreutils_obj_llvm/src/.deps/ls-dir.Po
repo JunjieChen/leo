@@ -1,0 +1,4 @@
+ls-dir.o ls-dir.o: ../../../subject/coreutils-6.11/src/ls-dir.c \
+  ../../../subject/coreutils-6.11/src/ls.h
+
+../../../subject/coreutils-6.11/src/ls.h:

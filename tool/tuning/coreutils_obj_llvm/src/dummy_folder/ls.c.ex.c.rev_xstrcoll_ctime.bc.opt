@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/ls.c.ex.c.rev_xstrcoll_ctime.bc.opt.bc ${1+"$@"}

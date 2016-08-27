@@ -1,0 +1,4 @@
+ls-ls.o: ../../../subject/coreutils-6.11/src/ls-ls.c \
+  ../../../subject/coreutils-6.11/src/ls.h
+
+../../../subject/coreutils-6.11/src/ls.h:

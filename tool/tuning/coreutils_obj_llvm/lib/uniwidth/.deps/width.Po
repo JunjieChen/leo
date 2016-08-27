@@ -1,0 +1,49 @@
+uniwidth/width.o uniwidth/width.o:  \
+ ../../../subject/coreutils-6.11/lib/uniwidth/width.c config.h \
+  ../../../subject/coreutils-6.11/lib/uniwidth.h \
+  ../../../subject/coreutils-6.11/lib/unitypes.h /usr/include/stdint.h \
+  /usr/include/features.h /usr/include/stdc-predef.h \
+  /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+  /usr/include/bits/wchar.h \
+  /SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stddef.h \
+  ../../../subject/coreutils-6.11/lib/localcharset.h \
+  ../../../subject/coreutils-6.11/lib/uniwidth/cjk.h \
+  ../../../subject/coreutils-6.11/lib/streq.h string.h \
+  /usr/include/string.h /usr/include/xlocale.h
+
+config.h:
+
+../../../subject/coreutils-6.11/lib/uniwidth.h:
+
+../../../subject/coreutils-6.11/lib/unitypes.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/wchar.h:
+
+/SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stddef.h:
+
+../../../subject/coreutils-6.11/lib/localcharset.h:
+
+../../../subject/coreutils-6.11/lib/uniwidth/cjk.h:
+
+../../../subject/coreutils-6.11/lib/streq.h:
+
+string.h:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:

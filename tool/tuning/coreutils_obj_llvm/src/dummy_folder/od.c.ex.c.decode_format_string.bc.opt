@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/od.c.ex.c.decode_format_string.bc.opt.bc ${1+"$@"}

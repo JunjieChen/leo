@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/ls.c.ex.c.set_exit_status.bc.opt.bc ${1+"$@"}

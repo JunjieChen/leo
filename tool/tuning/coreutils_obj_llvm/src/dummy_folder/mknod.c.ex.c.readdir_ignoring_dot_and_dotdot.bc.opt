@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/mknod.c.ex.c.readdir_ignoring_dot_and_dotdot.bc.opt.bc ${1+"$@"}

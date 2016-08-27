@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/printf.c.ex.c.lchmodat.bc.opt.bc ${1+"$@"}

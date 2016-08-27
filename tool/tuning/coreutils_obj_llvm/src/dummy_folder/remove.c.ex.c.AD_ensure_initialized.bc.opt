@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/remove.c.ex.c.AD_ensure_initialized.bc.opt.bc ${1+"$@"}

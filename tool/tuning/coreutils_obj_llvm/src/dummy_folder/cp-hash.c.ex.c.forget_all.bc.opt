@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/cp-hash.c.ex.c.forget_all.bc.opt.bc ${1+"$@"}

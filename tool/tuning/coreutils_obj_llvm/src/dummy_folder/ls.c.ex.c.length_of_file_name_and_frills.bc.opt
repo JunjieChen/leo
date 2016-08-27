@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/ls.c.ex.c.length_of_file_name_and_frills.bc.opt.bc ${1+"$@"}

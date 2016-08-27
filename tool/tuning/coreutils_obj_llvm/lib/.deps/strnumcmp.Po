@@ -1,0 +1,12 @@
+strnumcmp.o strnumcmp.o: ../../../subject/coreutils-6.11/lib/strnumcmp.c \
+  config.h ../../../subject/coreutils-6.11/lib/strnumcmp-in.h \
+  ../../../subject/coreutils-6.11/lib/strnumcmp.h \
+  /SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stddef.h
+
+config.h:
+
+../../../subject/coreutils-6.11/lib/strnumcmp-in.h:
+
+../../../subject/coreutils-6.11/lib/strnumcmp.h:
+
+/SEIDISK/huwx/tool/llvm/prebuild/llvm-gcc-4.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.2.1/include/stddef.h:

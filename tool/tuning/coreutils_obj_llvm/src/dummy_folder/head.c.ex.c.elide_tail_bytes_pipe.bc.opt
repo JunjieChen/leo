@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/head.c.ex.c.elide_tail_bytes_pipe.bc.opt.bc ${1+"$@"}

@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/remove.c.ex.c.full_filename0.bc.opt.bc ${1+"$@"}

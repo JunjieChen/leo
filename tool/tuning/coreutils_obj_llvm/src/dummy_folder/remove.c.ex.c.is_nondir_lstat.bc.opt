@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/remove.c.ex.c.is_nondir_lstat.bc.opt.bc ${1+"$@"}

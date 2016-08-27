@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/pr.c.ex.c.init_page.bc.opt.bc ${1+"$@"}

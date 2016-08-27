@@ -1,0 +1,4 @@
+#!/bin/sh
+lli=${LLVMINTERP-lli}
+exec $lli \
+    ./dummy_folder/factor.c.ex.c.lchownat.bc.opt.bc ${1+"$@"}
