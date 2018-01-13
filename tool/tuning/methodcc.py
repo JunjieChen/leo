@@ -1,5 +1,5 @@
 import os
-
+ 
 program = 'base64,basename,cat,chcon,chgrp,chown,chroot,cksum,comm,cp,csplit,cut\
 ,date,df,dircolors,dirname,echo,env,expand,expr,factor,fmt,fold\
 ,head,hostid,hostname,id,ginstall,join,kill,link,ln,logname,ls,md5sum,mkdir\
@@ -7,8 +7,6 @@ program = 'base64,basename,cat,chcon,chgrp,chown,chroot,cksum,comm,cp,csplit,cut
 ,ptx,pwd,readlink,rm,rmdir,runcon,seq,setuidgid,shred,shuf,sleep,sort,split\
 ,stat,stty,sum,sync,tac,tail,tee,touch,tr,tsort,tty,uname,unexpand,uniq,unlink\
 ,uptime,users,wc,whoami,who,yes'.split(',')
-
-#program = 'expr,join,ls,od,tr'.split(',')
 
 SMO_Path =  os.getcwd() + '/methodopt'
 Gen_Dir = os.getcwd() + '/gen'
